@@ -38,7 +38,7 @@ height:100%;
 font-size:13px;
 }
 a{
-color:#57BDDB;
+color:#8b8b8b;
 }
 body{
 font-family:'Open Sans', sans-serif;
@@ -60,7 +60,7 @@ padding:70px 0;
 margin-bottom:30px;
 }
 .hero-title i{
-background:none repeat scroll 0 0 #57bddb;
+background:none repeat scroll 0 0 #8b8b8b;
 /*border-radius*/
 -webkit-border-radius:50%;
    -moz-border-radius:50%;
@@ -138,7 +138,7 @@ width:100%;
 content:"";
 }
 
-.parallax-overlay{background-color:#57BDDB}
+.parallax-overlay{background-color:#8b8b8b}
 
 .welcome-text h2{
 font-size:60px;
@@ -184,7 +184,7 @@ opacity:.8;
 
 
 .navbar-default a.navbar-brand{
-color:#57bddb;
+color:#8b8b8b;
 font-weight:300;
 font-size:24px;
 text-transform:uppercase;
@@ -245,14 +245,14 @@ margin-top:60px;
 margin-top:15px;
 }
 .btn-filled{
-background:#57bddb;
+background:#8b8b8b;
 color:#fff;
 margin-right:20px;
-border:2px solid #57bddb;
+border:2px solid #8b8b8b;
 }
 .btn-bordered{
-border:2px solid #57bddb;
-color:#57bddb;
+border:2px solid #8b8b8b;
+color:#8b8b8b;
 background:transparent;
 }
 .btn-filled:hover{
@@ -260,7 +260,7 @@ color:#fff;
 opacity:.7;
 }
 .btn-bordered:hover{
-color:#57bddb;
+color:#8b8b8b;
 opacity:.7;
 }
 
@@ -279,7 +279,7 @@ background:url(../img/parallax-bg.jpg) no-repeat fixed center top;
         background-size:cover;
 }
 .features-bg{
-background:#57bddb;
+background:#8b8b8b;
 opacity:.6;
 position:absolute;
 left:0;
@@ -366,7 +366,7 @@ display:none
 display:block
 }
 .portfolio-overlay {
-  background: none repeat scroll 0 0 #57BDDB;
+  background: none repeat scroll 0 0 #8b8b8b;
   height: 100%;
   left: 0;
   opacity: 0.6;
@@ -435,7 +435,7 @@ right:0;
 padding-right:30px;
 }
 .single-testimonial h2{
-color:#57bddb;
+color:#8b8b8b;
 font-family:open sans;
 font-size:20px;
 font-weight:300;
@@ -524,7 +524,7 @@ text-transform:uppercase;
 font-weight:300;
 }
 .team-item h4{
-color:#57bddb;
+color:#8b8b8b;
 text-transform:uppercase;
 font-weight:300;
 }
@@ -625,17 +625,17 @@ text-transform:uppercase;
 .popular{
 }
 .popular .price-title{
-background-color:#57bddb;
+background-color:#8b8b8b;
 }
 .popular .price-title h4{
 color:#fff;
 }
 .popular .plan-link a.btn-bordered{
-background:#57bddb;
+background:#8b8b8b;
 color:#fff;
 }
 .popular .plan-link,.popular .plan-features li, .popular .price-title, .popular .plan-features, .popular .plan-price{
-border-color:#57bddb;
+border-color:#8b8b8b;
 }
 
 /* ------------------------------------	*/
@@ -683,7 +683,7 @@ text-transform:uppercase;
 margin:0 5px;
 }
 .single-partner img{
-border:1px solid #57BDDB;
+border:1px solid #8b8b8b;
 width:100%;
 }
 .owl-buttons{
@@ -691,8 +691,8 @@ margin-top:10px;
 margin-left:5px;
 }
 .owl-buttons div{
-border:1px solid #57BDDB;
-color:#57BDDB;
+border:1px solid #8b8b8b;
+color:#8b8b8b;
 display:inline-block;
 font-size:20px;
 height:30px;
@@ -714,7 +714,7 @@ opacity:.6;
 /* -----------------------------------	*/
 
 #call-to-action{
-background:none repeat scroll 0 0 #57bddb;
+background:none repeat scroll 0 0 #8b8b8b;
 color:#fff;
 padding:40px 0;
 text-align:center;
@@ -794,7 +794,7 @@ font-weight:300;
 text-transform:uppercase;
 }
 .form-group input[type=text], .form-group input[type=email], .form-group textarea{
-border:1px solid #57bddb;
+border:1px solid #8b8b8b;
 /*border-radius*/
 -webkit-border-radius:0;
    -moz-border-radius:0;
@@ -825,7 +825,7 @@ margin-top:0;
 padding: 5px 10px;clear:both;
 }
 #form-messages.success {
-border: 2px solid #57bddb
+border: 2px solid #8b8b8b
 }
 #form-messages.error {
 border:2px solid #cc0000
@@ -845,7 +845,7 @@ margin-bottom:5px;
 .address-info ul li{
 }
 .address-info ul li a{
-background:none repeat scroll 0 0 #57bddb;
+background:none repeat scroll 0 0 #8b8b8b;
 color:#fff;
 display:inline-block;
 height:25px;
@@ -876,7 +876,7 @@ font-weight:700;
 text-align:right;
 }
 .company-name span{
-color:#57BDDB;
+color:#8b8b8b;
 }
 .animated{
 /*animation-duration*/
@@ -902,7 +902,7 @@ top:0;
 width:100%;
 height:100%;
 z-index:9999;
-background-color:#57BDDB;
+background-color:#8b8b8b;
 }
 .spinner{
 height:150px;
@@ -1018,11 +1018,11 @@ float:left;
 /* -----------------------------------	*/
 
 
-a, .navbar-default a.navbar-brand, .btn-bordered, .single-testimonial h2, .team-item h4, .company-name span, .owl-buttons div, .footer-copyright a{color:#57bddb;}
+a, .navbar-default a.navbar-brand, .btn-bordered, .single-testimonial h2, .team-item h4, .company-name span, .owl-buttons div, .footer-copyright a{color:#8b8b8b;}
 
-.hero-title i, .btn-filled, .features-bg, .popular .price-title, .popular .plan-link a.btn-bordered, .address-info ul li a, #preloader, .portfolio-overlay, #call-to-action, .parallax-overlay {background-color:#57bddb}
+.hero-title i, .btn-filled, .features-bg, .popular .price-title, .popular .plan-link a.btn-bordered, .address-info ul li a, #preloader, .portfolio-overlay, #call-to-action, .parallax-overlay {background-color:#8b8b8b}
 
-.btn-filled, .btn-bordered, .form-group input[type=text], .form-group input[type=email], .form-group textarea, .popular .plan-link,.popular .plan-features li, .popular .price-title, .popular .plan-features, .popular .plan-price, .single-partner img, .owl-buttons div {border-color:#57bddb}
+.btn-filled, .btn-bordered, .form-group input[type=text], .form-group input[type=email], .form-group textarea, .popular .plan-link,.popular .plan-features li, .popular .price-title, .popular .plan-features, .popular .plan-price, .single-partner img, .owl-buttons div {border-color:#8b8b8b}
 
 
 
@@ -1048,7 +1048,7 @@ z-index:9999;
 display:none;
 }
 .setting_panel i#panel_open, .setting_panel i#panel_close{
-background:none repeat scroll 0 0 #57BDDB;
+background:none repeat scroll 0 0 #8b8b8b;
 color:#FFFFFF;
 font-size:18px;
 padding:10px;
@@ -1104,7 +1104,7 @@ margin-bottom:10px;
 margin-bottom:5px;
 }
 .setting_panel .color_lists span#cyan_color{
-background:#57BDDB;
+background:#8b8b8b;
 }
 .setting_panel .color_lists span#red_color{
 background:#EA4848;
